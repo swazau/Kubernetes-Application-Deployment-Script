@@ -1,1 +1,1 @@
-A script to automatically provision a kubenetes deployment created from onedr0p's https://github.com/onedr0p/cluster-template. Likely will not work on any other Kubernetes deployments unless they are structured the same as onedr0ps.
+A script to automatically provision a kubenetes application deployment created from onedr0p's https://github.com/onedr0p/cluster-template. Likely will not work on any other Kubernetes deployments unless they are structured the same as onedr0ps.
